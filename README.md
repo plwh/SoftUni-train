@@ -1,3 +1,2 @@
 # SoftUni-train
-Repository for exercise
-This is conflict
+Repository for exercises
