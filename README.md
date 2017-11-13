@@ -1,2 +1,2 @@
 # SoftUni-train
-Repository for exercises
+Repository for exercise
