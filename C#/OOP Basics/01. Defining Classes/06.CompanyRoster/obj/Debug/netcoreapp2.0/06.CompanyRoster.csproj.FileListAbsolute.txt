@@ -1,0 +1,11 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\06.CompanyRoster\bin\Debug\netcoreapp2.0\06.CompanyRoster.deps.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\06.CompanyRoster\bin\Debug\netcoreapp2.0\06.CompanyRoster.runtimeconfig.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\06.CompanyRoster\bin\Debug\netcoreapp2.0\06.CompanyRoster.runtimeconfig.dev.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\06.CompanyRoster\bin\Debug\netcoreapp2.0\06.CompanyRoster.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\06.CompanyRoster\bin\Debug\netcoreapp2.0\06.CompanyRoster.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\06.CompanyRoster\obj\Debug\netcoreapp2.0\06.CompanyRoster.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\06.CompanyRoster\obj\Debug\netcoreapp2.0\06.CompanyRoster.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\06.CompanyRoster\obj\Debug\netcoreapp2.0\06.CompanyRoster.AssemblyInfoInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\06.CompanyRoster\obj\Debug\netcoreapp2.0\06.CompanyRoster.AssemblyInfo.cs
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\06.CompanyRoster\obj\Debug\netcoreapp2.0\06.CompanyRoster.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\06.CompanyRoster\obj\Debug\netcoreapp2.0\06.CompanyRoster.pdb

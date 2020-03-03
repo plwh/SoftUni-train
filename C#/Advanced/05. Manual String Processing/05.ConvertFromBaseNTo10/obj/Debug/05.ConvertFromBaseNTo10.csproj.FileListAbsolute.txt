@@ -1,0 +1,7 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\05.ConvertFromBaseNTo10\bin\Debug\05.ConvertFromBaseNTo10.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\05.ConvertFromBaseNTo10\bin\Debug\05.ConvertFromBaseNTo10.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\05.ConvertFromBaseNTo10\bin\Debug\05.ConvertFromBaseNTo10.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\05.ConvertFromBaseNTo10\obj\Debug\05.ConvertFromBaseNTo10.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\05.ConvertFromBaseNTo10\obj\Debug\05.ConvertFromBaseNTo10.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\05.ConvertFromBaseNTo10\obj\Debug\05.ConvertFromBaseNTo10.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\05.ConvertFromBaseNTo10\obj\Debug\05.ConvertFromBaseNTo10.pdb

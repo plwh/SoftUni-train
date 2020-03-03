@@ -1,0 +1,7 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam Retake - 3 September 2017\01.DangerousFloor\bin\Debug\01.DangerousFloor.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam Retake - 3 September 2017\01.DangerousFloor\bin\Debug\01.DangerousFloor.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam Retake - 3 September 2017\01.DangerousFloor\bin\Debug\01.DangerousFloor.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam Retake - 3 September 2017\01.DangerousFloor\obj\Debug\01.DangerousFloor.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam Retake - 3 September 2017\01.DangerousFloor\obj\Debug\01.DangerousFloor.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam Retake - 3 September 2017\01.DangerousFloor\obj\Debug\01.DangerousFloor.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam Retake - 3 September 2017\01.DangerousFloor\obj\Debug\01.DangerousFloor.pdb

@@ -1,0 +1,7 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 25 June 2017\03.NumberWars\bin\Debug\03.NumberWars.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 25 June 2017\03.NumberWars\bin\Debug\03.NumberWars.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 25 June 2017\03.NumberWars\bin\Debug\03.NumberWars.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 25 June 2017\03.NumberWars\obj\Debug\03.NumberWars.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 25 June 2017\03.NumberWars\obj\Debug\03.NumberWars.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 25 June 2017\03.NumberWars\obj\Debug\03.NumberWars.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 25 June 2017\03.NumberWars\obj\Debug\03.NumberWars.pdb

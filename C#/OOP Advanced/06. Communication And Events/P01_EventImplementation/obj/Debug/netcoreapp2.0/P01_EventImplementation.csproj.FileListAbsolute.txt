@@ -1,0 +1,11 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P01_EventImplementation\bin\Debug\netcoreapp2.0\P01_EventImplementation.deps.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P01_EventImplementation\bin\Debug\netcoreapp2.0\P01_EventImplementation.runtimeconfig.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P01_EventImplementation\bin\Debug\netcoreapp2.0\P01_EventImplementation.runtimeconfig.dev.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P01_EventImplementation\bin\Debug\netcoreapp2.0\P01_EventImplementation.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P01_EventImplementation\bin\Debug\netcoreapp2.0\P01_EventImplementation.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P01_EventImplementation\obj\Debug\netcoreapp2.0\P01_EventImplementation.csprojAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P01_EventImplementation\obj\Debug\netcoreapp2.0\P01_EventImplementation.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P01_EventImplementation\obj\Debug\netcoreapp2.0\P01_EventImplementation.AssemblyInfoInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P01_EventImplementation\obj\Debug\netcoreapp2.0\P01_EventImplementation.AssemblyInfo.cs
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P01_EventImplementation\obj\Debug\netcoreapp2.0\P01_EventImplementation.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P01_EventImplementation\obj\Debug\netcoreapp2.0\P01_EventImplementation.pdb

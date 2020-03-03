@@ -1,0 +1,7 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\06.AMinerTask\bin\Debug\06.AMinerTask.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\06.AMinerTask\bin\Debug\06.AMinerTask.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\06.AMinerTask\bin\Debug\06.AMinerTask.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\06.AMinerTask\obj\Debug\06.AMinerTask.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\06.AMinerTask\obj\Debug\06.AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\06.AMinerTask\obj\Debug\06.AMinerTask.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\06.AMinerTask\obj\Debug\06.AMinerTask.pdb

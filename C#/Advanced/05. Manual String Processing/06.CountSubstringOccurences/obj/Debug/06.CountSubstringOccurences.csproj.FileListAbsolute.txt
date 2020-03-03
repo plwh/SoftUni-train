@@ -1,0 +1,7 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\06.CountSubstringOccurences\bin\Debug\06.CountSubstringOccurences.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\06.CountSubstringOccurences\bin\Debug\06.CountSubstringOccurences.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\06.CountSubstringOccurences\bin\Debug\06.CountSubstringOccurences.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\06.CountSubstringOccurences\obj\Debug\06.CountSubstringOccurences.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\06.CountSubstringOccurences\obj\Debug\06.CountSubstringOccurences.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\06.CountSubstringOccurences\obj\Debug\06.CountSubstringOccurences.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\06.CountSubstringOccurences\obj\Debug\06.CountSubstringOccurences.pdb

@@ -1,0 +1,7 @@
+c:\users\plwh\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\03.SeriesOfLetters\bin\Debug\03.SeriesOfLetters.exe.config
+c:\users\plwh\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\03.SeriesOfLetters\bin\Debug\03.SeriesOfLetters.exe
+c:\users\plwh\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\03.SeriesOfLetters\bin\Debug\03.SeriesOfLetters.pdb
+c:\users\plwh\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\03.SeriesOfLetters\obj\Debug\03.SeriesOfLetters.csprojResolveAssemblyReference.cache
+c:\users\plwh\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\03.SeriesOfLetters\obj\Debug\03.SeriesOfLetters.csproj.CoreCompileInputs.cache
+c:\users\plwh\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\03.SeriesOfLetters\obj\Debug\03.SeriesOfLetters.exe
+c:\users\plwh\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\03.SeriesOfLetters\obj\Debug\03.SeriesOfLetters.pdb

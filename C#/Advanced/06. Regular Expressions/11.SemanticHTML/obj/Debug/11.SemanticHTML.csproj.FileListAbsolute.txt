@@ -1,0 +1,7 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\11.SemanticHTML\bin\Debug\11.SemanticHTML.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\11.SemanticHTML\bin\Debug\11.SemanticHTML.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\11.SemanticHTML\bin\Debug\11.SemanticHTML.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\11.SemanticHTML\obj\Debug\11.SemanticHTML.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\11.SemanticHTML\obj\Debug\11.SemanticHTML.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\11.SemanticHTML\obj\Debug\11.SemanticHTML.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\11.SemanticHTML\obj\Debug\11.SemanticHTML.pdb

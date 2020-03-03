@@ -1,0 +1,25 @@
+C:\Users\DJBur\Desktop\Valio-Final\Last Army\bin\Debug\Last Army.exe.config
+C:\Users\DJBur\Desktop\Valio-Final\Last Army\bin\Debug\Last Army.exe
+C:\Users\DJBur\Desktop\Valio-Final\Last Army\bin\Debug\Last Army.pdb
+C:\Users\DJBur\Desktop\Valio-Final\Last Army\obj\Debug\Last Army.csprojResolveAssemblyReference.cache
+C:\Users\DJBur\Desktop\Valio-Final\Last Army\obj\Debug\Last Army.exe
+C:\Users\DJBur\Desktop\Valio-Final\Last Army\obj\Debug\Last Army.pdb
+C:\Users\DJBur\Desktop\Valio-Final\Last Army\bin\Debug\nunit.framework.dll
+C:\Users\DJBur\Desktop\Valio-Final\Last Army\bin\Debug\nunit.framework.xml
+C:\Users\DJBur\Desktop\AuthorSolution\Last Army\bin\Debug\Last Army.exe.config
+C:\Users\DJBur\Desktop\AuthorSolution\Last Army\bin\Debug\Last Army.exe
+C:\Users\DJBur\Desktop\AuthorSolution\Last Army\bin\Debug\Last Army.pdb
+C:\Users\DJBur\Desktop\AuthorSolution\Last Army\bin\Debug\nunit.framework.dll
+C:\Users\DJBur\Desktop\AuthorSolution\Last Army\bin\Debug\nunit.framework.xml
+C:\Users\DJBur\Desktop\AuthorSolution\Last Army\obj\Debug\Last Army.csprojResolveAssemblyReference.cache
+C:\Users\DJBur\Desktop\AuthorSolution\Last Army\obj\Debug\Last Army.exe
+C:\Users\DJBur\Desktop\AuthorSolution\Last Army\obj\Debug\Last Army.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\exam\CSharp OOP Advanced Exam - 20 August 2017\Structure_AuthorSolution\AuthorSolution\Last Army\bin\Debug\Last Army.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\exam\CSharp OOP Advanced Exam - 20 August 2017\Structure_AuthorSolution\AuthorSolution\Last Army\bin\Debug\Last Army.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\exam\CSharp OOP Advanced Exam - 20 August 2017\Structure_AuthorSolution\AuthorSolution\Last Army\bin\Debug\Last Army.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\exam\CSharp OOP Advanced Exam - 20 August 2017\Structure_AuthorSolution\AuthorSolution\Last Army\bin\Debug\nunit.framework.xml
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\exam\CSharp OOP Advanced Exam - 20 August 2017\Structure_AuthorSolution\AuthorSolution\Last Army\obj\Debug\Last Army.csprojAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\exam\CSharp OOP Advanced Exam - 20 August 2017\Structure_AuthorSolution\AuthorSolution\Last Army\obj\Debug\Last Army.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\exam\CSharp OOP Advanced Exam - 20 August 2017\Structure_AuthorSolution\AuthorSolution\Last Army\obj\Debug\Last Army.csproj.CopyComplete
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\exam\CSharp OOP Advanced Exam - 20 August 2017\Structure_AuthorSolution\AuthorSolution\Last Army\obj\Debug\Last Army.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\exam\CSharp OOP Advanced Exam - 20 August 2017\Structure_AuthorSolution\AuthorSolution\Last Army\obj\Debug\Last Army.pdb

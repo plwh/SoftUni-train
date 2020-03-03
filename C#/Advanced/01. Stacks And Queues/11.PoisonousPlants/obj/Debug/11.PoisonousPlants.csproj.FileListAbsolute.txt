@@ -1,0 +1,14 @@
+I:\Advanced\01. Stacks And Queues\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.exe.config
+I:\Advanced\01. Stacks And Queues\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.exe
+I:\Advanced\01. Stacks And Queues\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.pdb
+I:\Advanced\01. Stacks And Queues\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.csprojResolveAssemblyReference.cache
+I:\Advanced\01. Stacks And Queues\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.csproj.CoreCompileInputs.cache
+I:\Advanced\01. Stacks And Queues\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.exe
+I:\Advanced\01. Stacks And Queues\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.pdb

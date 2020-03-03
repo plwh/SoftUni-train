@@ -1,0 +1,7 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\01.ReverseString\bin\Debug\01.ReverseString.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\01.ReverseString\bin\Debug\01.ReverseString.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\01.ReverseString\bin\Debug\01.ReverseString.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\01.ReverseString\obj\Debug\01.ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\01.ReverseString\obj\Debug\01.ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\01.ReverseString\obj\Debug\01.ReverseString.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\01.ReverseString\obj\Debug\01.ReverseString.pdb

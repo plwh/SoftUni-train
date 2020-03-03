@@ -1,0 +1,6 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\09.EnrolledStudents\bin\Debug\09.EnrolledStudents.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\09.EnrolledStudents\bin\Debug\09.EnrolledStudents.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\09.EnrolledStudents\bin\Debug\09.EnrolledStudents.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\09.EnrolledStudents\obj\Debug\09.EnrolledStudents.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\09.EnrolledStudents\obj\Debug\09.EnrolledStudents.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\09.EnrolledStudents\obj\Debug\09.EnrolledStudents.pdb

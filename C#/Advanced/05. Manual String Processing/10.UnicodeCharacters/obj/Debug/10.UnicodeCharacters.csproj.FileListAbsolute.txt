@@ -1,0 +1,6 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.pdb

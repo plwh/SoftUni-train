@@ -1,0 +1,11 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.deps.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.runtimeconfig.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.runtimeconfig.dev.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.AssemblyInfoInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.AssemblyInfo.cs
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.pdb

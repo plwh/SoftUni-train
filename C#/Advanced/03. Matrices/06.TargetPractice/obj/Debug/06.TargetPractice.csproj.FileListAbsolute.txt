@@ -1,0 +1,7 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\06.TargetPractice\bin\Debug\06.TargetPractice.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\06.TargetPractice\bin\Debug\06.TargetPractice.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\06.TargetPractice\bin\Debug\06.TargetPractice.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\06.TargetPractice\obj\Debug\06.TargetPractice.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\06.TargetPractice\obj\Debug\06.TargetPractice.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\06.TargetPractice\obj\Debug\06.TargetPractice.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\06.TargetPractice\obj\Debug\06.TargetPractice.pdb

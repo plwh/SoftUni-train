@@ -1,0 +1,7 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\11.LogsAggregator\bin\Debug\11.LogsAggregator.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\11.LogsAggregator\bin\Debug\11.LogsAggregator.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\11.LogsAggregator\bin\Debug\11.LogsAggregator.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\11.LogsAggregator\obj\Debug\11.LogsAggregator.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\11.LogsAggregator\obj\Debug\11.LogsAggregator.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\11.LogsAggregator\obj\Debug\11.LogsAggregator.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\11.LogsAggregator\obj\Debug\11.LogsAggregator.pdb

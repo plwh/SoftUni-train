@@ -1,0 +1,11 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\15.DrawingTool\bin\Debug\netcoreapp2.0\15.DrawingTool.deps.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\15.DrawingTool\bin\Debug\netcoreapp2.0\15.DrawingTool.runtimeconfig.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\15.DrawingTool\bin\Debug\netcoreapp2.0\15.DrawingTool.runtimeconfig.dev.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\15.DrawingTool\bin\Debug\netcoreapp2.0\15.DrawingTool.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\15.DrawingTool\bin\Debug\netcoreapp2.0\15.DrawingTool.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\15.DrawingTool\obj\Debug\netcoreapp2.0\15.DrawingTool.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\15.DrawingTool\obj\Debug\netcoreapp2.0\15.DrawingTool.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\15.DrawingTool\obj\Debug\netcoreapp2.0\15.DrawingTool.AssemblyInfoInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\15.DrawingTool\obj\Debug\netcoreapp2.0\15.DrawingTool.AssemblyInfo.cs
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\15.DrawingTool\obj\Debug\netcoreapp2.0\15.DrawingTool.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\15.DrawingTool\obj\Debug\netcoreapp2.0\15.DrawingTool.pdb

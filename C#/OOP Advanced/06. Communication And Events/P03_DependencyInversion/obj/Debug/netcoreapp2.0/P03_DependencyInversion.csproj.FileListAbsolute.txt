@@ -1,0 +1,11 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P03_DependencyInversion\bin\Debug\netcoreapp2.0\P03_DependencyInversion.deps.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P03_DependencyInversion\bin\Debug\netcoreapp2.0\P03_DependencyInversion.runtimeconfig.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P03_DependencyInversion\bin\Debug\netcoreapp2.0\P03_DependencyInversion.runtimeconfig.dev.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P03_DependencyInversion\bin\Debug\netcoreapp2.0\P03_DependencyInversion.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P03_DependencyInversion\bin\Debug\netcoreapp2.0\P03_DependencyInversion.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P03_DependencyInversion\obj\Debug\netcoreapp2.0\P03_DependencyInversion.csprojAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P03_DependencyInversion\obj\Debug\netcoreapp2.0\P03_DependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P03_DependencyInversion\obj\Debug\netcoreapp2.0\P03_DependencyInversion.AssemblyInfoInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P03_DependencyInversion\obj\Debug\netcoreapp2.0\P03_DependencyInversion.AssemblyInfo.cs
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P03_DependencyInversion\obj\Debug\netcoreapp2.0\P03_DependencyInversion.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P03_DependencyInversion\obj\Debug\netcoreapp2.0\P03_DependencyInversion.pdb

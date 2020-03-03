@@ -1,0 +1,6 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\03.MaximumElement\bin\Debug\03.MaximumElement.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\03.MaximumElement\bin\Debug\03.MaximumElement.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\03.MaximumElement\bin\Debug\03.MaximumElement.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\03.MaximumElement\obj\Debug\03.MaximumElement.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\03.MaximumElement\obj\Debug\03.MaximumElement.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\03.MaximumElement\obj\Debug\03.MaximumElement.pdb

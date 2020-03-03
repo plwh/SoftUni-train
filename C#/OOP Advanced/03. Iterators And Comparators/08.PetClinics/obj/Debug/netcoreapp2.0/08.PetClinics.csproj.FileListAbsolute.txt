@@ -1,0 +1,11 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\03. Iterators And Comparators\08.PetClinics\bin\Debug\netcoreapp2.0\08.PetClinics.deps.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\03. Iterators And Comparators\08.PetClinics\bin\Debug\netcoreapp2.0\08.PetClinics.runtimeconfig.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\03. Iterators And Comparators\08.PetClinics\bin\Debug\netcoreapp2.0\08.PetClinics.runtimeconfig.dev.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\03. Iterators And Comparators\08.PetClinics\bin\Debug\netcoreapp2.0\08.PetClinics.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\03. Iterators And Comparators\08.PetClinics\bin\Debug\netcoreapp2.0\08.PetClinics.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\03. Iterators And Comparators\08.PetClinics\obj\Debug\netcoreapp2.0\08.PetClinics.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\03. Iterators And Comparators\08.PetClinics\obj\Debug\netcoreapp2.0\08.PetClinics.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\03. Iterators And Comparators\08.PetClinics\obj\Debug\netcoreapp2.0\08.PetClinics.AssemblyInfoInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\03. Iterators And Comparators\08.PetClinics\obj\Debug\netcoreapp2.0\08.PetClinics.AssemblyInfo.cs
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\03. Iterators And Comparators\08.PetClinics\obj\Debug\netcoreapp2.0\08.PetClinics.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\03. Iterators And Comparators\08.PetClinics\obj\Debug\netcoreapp2.0\08.PetClinics.pdb

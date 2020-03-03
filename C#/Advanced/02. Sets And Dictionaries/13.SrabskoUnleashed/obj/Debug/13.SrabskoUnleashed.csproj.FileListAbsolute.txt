@@ -1,0 +1,7 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\13.SrabskoUnleashed\bin\Debug\13.SrabskoUnleashed.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\13.SrabskoUnleashed\bin\Debug\13.SrabskoUnleashed.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\13.SrabskoUnleashed\bin\Debug\13.SrabskoUnleashed.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\13.SrabskoUnleashed\obj\Debug\13.SrabskoUnleashed.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\13.SrabskoUnleashed\obj\Debug\13.SrabskoUnleashed.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\13.SrabskoUnleashed\obj\Debug\13.SrabskoUnleashed.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\13.SrabskoUnleashed\obj\Debug\13.SrabskoUnleashed.pdb

@@ -1,0 +1,7 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\07.ValidUsernames\bin\Debug\07.ValidUsernames.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\07.ValidUsernames\bin\Debug\07.ValidUsernames.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\07.ValidUsernames\bin\Debug\07.ValidUsernames.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\07.ValidUsernames\obj\Debug\07.ValidUsernames.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\07.ValidUsernames\obj\Debug\07.ValidUsernames.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\07.ValidUsernames\obj\Debug\07.ValidUsernames.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\07.ValidUsernames\obj\Debug\07.ValidUsernames.pdb

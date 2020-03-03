@@ -1,0 +1,11 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\03. Iterators And Comparators\04.Froggy\bin\Debug\netcoreapp2.0\04.Froggy.deps.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\03. Iterators And Comparators\04.Froggy\bin\Debug\netcoreapp2.0\04.Froggy.runtimeconfig.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\03. Iterators And Comparators\04.Froggy\bin\Debug\netcoreapp2.0\04.Froggy.runtimeconfig.dev.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\03. Iterators And Comparators\04.Froggy\bin\Debug\netcoreapp2.0\04.Froggy.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\03. Iterators And Comparators\04.Froggy\bin\Debug\netcoreapp2.0\04.Froggy.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\03. Iterators And Comparators\04.Froggy\obj\Debug\netcoreapp2.0\04.Froggy.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\03. Iterators And Comparators\04.Froggy\obj\Debug\netcoreapp2.0\04.Froggy.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\03. Iterators And Comparators\04.Froggy\obj\Debug\netcoreapp2.0\04.Froggy.AssemblyInfoInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\03. Iterators And Comparators\04.Froggy\obj\Debug\netcoreapp2.0\04.Froggy.AssemblyInfo.cs
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\03. Iterators And Comparators\04.Froggy\obj\Debug\netcoreapp2.0\04.Froggy.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\03. Iterators And Comparators\04.Froggy\obj\Debug\netcoreapp2.0\04.Froggy.pdb

@@ -1,0 +1,11 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P05_IntegrationTests\bin\Debug\netcoreapp2.0\P05_IntegrationTests.deps.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P05_IntegrationTests\bin\Debug\netcoreapp2.0\P05_IntegrationTests.runtimeconfig.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P05_IntegrationTests\bin\Debug\netcoreapp2.0\P05_IntegrationTests.runtimeconfig.dev.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P05_IntegrationTests\bin\Debug\netcoreapp2.0\P05_IntegrationTests.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P05_IntegrationTests\bin\Debug\netcoreapp2.0\P05_IntegrationTests.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P05_IntegrationTests\obj\Debug\netcoreapp2.0\P05_IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P05_IntegrationTests\obj\Debug\netcoreapp2.0\P05_IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P05_IntegrationTests\obj\Debug\netcoreapp2.0\P05_IntegrationTests.AssemblyInfo.cs
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P05_IntegrationTests\obj\Debug\netcoreapp2.0\P05_IntegrationTests.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P05_IntegrationTests\obj\Debug\netcoreapp2.0\P05_IntegrationTests.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P05_IntegrationTests\obj\Debug\netcoreapp2.0\P05_IntegrationTests.csprojAssemblyReference.cache

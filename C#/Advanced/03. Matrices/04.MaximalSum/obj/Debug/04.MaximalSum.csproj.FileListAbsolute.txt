@@ -1,0 +1,7 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\04.MaximalSum\bin\Debug\04.MaximalSum.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\04.MaximalSum\bin\Debug\04.MaximalSum.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\04.MaximalSum\bin\Debug\04.MaximalSum.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\04.MaximalSum\obj\Debug\04.MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\04.MaximalSum\obj\Debug\04.MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\04.MaximalSum\obj\Debug\04.MaximalSum.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\04.MaximalSum\obj\Debug\04.MaximalSum.pdb

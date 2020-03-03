@@ -1,0 +1,7 @@
+C:\Users\PLWH\Desktop\Coding\CSharp Advanced Exam 22 August 2016\03.NMS\bin\Debug\03.NMS.exe.config
+C:\Users\PLWH\Desktop\Coding\CSharp Advanced Exam 22 August 2016\03.NMS\bin\Debug\03.NMS.exe
+C:\Users\PLWH\Desktop\Coding\CSharp Advanced Exam 22 August 2016\03.NMS\bin\Debug\03.NMS.pdb
+C:\Users\PLWH\Desktop\Coding\CSharp Advanced Exam 22 August 2016\03.NMS\obj\Debug\03.NMS.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\CSharp Advanced Exam 22 August 2016\03.NMS\obj\Debug\03.NMS.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\CSharp Advanced Exam 22 August 2016\03.NMS\obj\Debug\03.NMS.exe
+C:\Users\PLWH\Desktop\Coding\CSharp Advanced Exam 22 August 2016\03.NMS\obj\Debug\03.NMS.pdb

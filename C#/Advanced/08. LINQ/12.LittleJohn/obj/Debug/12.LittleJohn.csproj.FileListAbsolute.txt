@@ -1,0 +1,7 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\12.LittleJohn\bin\Debug\12.LittleJohn.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\12.LittleJohn\bin\Debug\12.LittleJohn.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\12.LittleJohn\bin\Debug\12.LittleJohn.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\12.LittleJohn\obj\Debug\12.LittleJohn.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\12.LittleJohn\obj\Debug\12.LittleJohn.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\12.LittleJohn\obj\Debug\12.LittleJohn.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\12.LittleJohn\obj\Debug\12.LittleJohn.pdb

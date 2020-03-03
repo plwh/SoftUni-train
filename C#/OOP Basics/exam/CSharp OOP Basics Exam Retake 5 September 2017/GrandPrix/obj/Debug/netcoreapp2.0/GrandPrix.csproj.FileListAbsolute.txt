@@ -1,0 +1,11 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\exam\CSharp OOP Basics Exam Retake 5 September 2017\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.deps.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\exam\CSharp OOP Basics Exam Retake 5 September 2017\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.runtimeconfig.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\exam\CSharp OOP Basics Exam Retake 5 September 2017\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.runtimeconfig.dev.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\exam\CSharp OOP Basics Exam Retake 5 September 2017\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\exam\CSharp OOP Basics Exam Retake 5 September 2017\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\exam\CSharp OOP Basics Exam Retake 5 September 2017\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\exam\CSharp OOP Basics Exam Retake 5 September 2017\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\exam\CSharp OOP Basics Exam Retake 5 September 2017\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.AssemblyInfoInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\exam\CSharp OOP Basics Exam Retake 5 September 2017\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.AssemblyInfo.cs
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\exam\CSharp OOP Basics Exam Retake 5 September 2017\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\exam\CSharp OOP Basics Exam Retake 5 September 2017\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.pdb

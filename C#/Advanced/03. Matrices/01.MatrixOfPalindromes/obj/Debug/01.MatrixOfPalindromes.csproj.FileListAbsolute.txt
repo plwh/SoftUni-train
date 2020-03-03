@@ -1,0 +1,7 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\01.MatrixOfPalindromes\bin\Debug\01.MatrixOfPalindromes.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\01.MatrixOfPalindromes\bin\Debug\01.MatrixOfPalindromes.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\01.MatrixOfPalindromes\bin\Debug\01.MatrixOfPalindromes.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\01.MatrixOfPalindromes\obj\Debug\01.MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\01.MatrixOfPalindromes\obj\Debug\01.MatrixOfPalindromes.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\01.MatrixOfPalindromes\obj\Debug\01.MatrixOfPalindromes.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\01.MatrixOfPalindromes\obj\Debug\01.MatrixOfPalindromes.pdb

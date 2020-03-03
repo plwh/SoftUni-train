@@ -1,0 +1,12 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P10_TirePressureMonitoringSystem.Tests\bin\Debug\netcoreapp2.0\P10_TirePressureMonitoringSystem.Tests.deps.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P10_TirePressureMonitoringSystem.Tests\bin\Debug\netcoreapp2.0\P10_TirePressureMonitoringSystem.Tests.runtimeconfig.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P10_TirePressureMonitoringSystem.Tests\bin\Debug\netcoreapp2.0\P10_TirePressureMonitoringSystem.Tests.runtimeconfig.dev.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P10_TirePressureMonitoringSystem.Tests\bin\Debug\netcoreapp2.0\P10_TirePressureMonitoringSystem.Tests.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P10_TirePressureMonitoringSystem.Tests\obj\Debug\netcoreapp2.0\P10_TirePressureMonitoringSystem.Tests.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P10_TirePressureMonitoringSystem.Tests\obj\Debug\netcoreapp2.0\P10_TirePressureMonitoringSystem.Tests.AssemblyInfoInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P10_TirePressureMonitoringSystem.Tests\obj\Debug\netcoreapp2.0\P10_TirePressureMonitoringSystem.Tests.AssemblyInfo.cs
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P10_TirePressureMonitoringSystem.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P10_TirePressureMonitoringSystem.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P10_TirePressureMonitoringSystem.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P10_TirePressureMonitoringSystem.Tests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\05. Unit Testing\P10_TirePressureMonitoringSystem.Tests\obj\Debug\netcoreapp2.0\P10_TirePressureMonitoringSystem.Tests.csprojAssemblyReference.cache

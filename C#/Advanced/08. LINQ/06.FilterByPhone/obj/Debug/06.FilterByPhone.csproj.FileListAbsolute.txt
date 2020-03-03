@@ -1,0 +1,7 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\06.FilterByPhone\bin\Debug\06.FilterByPhone.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\06.FilterByPhone\bin\Debug\06.FilterByPhone.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\06.FilterByPhone\bin\Debug\06.FilterByPhone.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\06.FilterByPhone\obj\Debug\06.FilterByPhone.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\06.FilterByPhone\obj\Debug\06.FilterByPhone.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\06.FilterByPhone\obj\Debug\06.FilterByPhone.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\06.FilterByPhone\obj\Debug\06.FilterByPhone.pdb

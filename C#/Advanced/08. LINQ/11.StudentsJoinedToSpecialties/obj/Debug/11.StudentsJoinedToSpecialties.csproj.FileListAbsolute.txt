@@ -1,0 +1,7 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\11.StudentsJoinedToSpecialties\bin\Debug\11.StudentsJoinedToSpecialties.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\11.StudentsJoinedToSpecialties\bin\Debug\11.StudentsJoinedToSpecialties.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\11.StudentsJoinedToSpecialties\bin\Debug\11.StudentsJoinedToSpecialties.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\11.StudentsJoinedToSpecialties\obj\Debug\11.StudentsJoinedToSpecialties.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\11.StudentsJoinedToSpecialties\obj\Debug\11.StudentsJoinedToSpecialties.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\11.StudentsJoinedToSpecialties\obj\Debug\11.StudentsJoinedToSpecialties.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\11.StudentsJoinedToSpecialties\obj\Debug\11.StudentsJoinedToSpecialties.pdb

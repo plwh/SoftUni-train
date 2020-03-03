@@ -1,0 +1,7 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.pdb

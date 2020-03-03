@@ -1,0 +1,11 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P02_KingsGambit\bin\Debug\netcoreapp2.0\P02_KingsGambit.deps.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P02_KingsGambit\bin\Debug\netcoreapp2.0\P02_KingsGambit.runtimeconfig.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P02_KingsGambit\bin\Debug\netcoreapp2.0\P02_KingsGambit.runtimeconfig.dev.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P02_KingsGambit\bin\Debug\netcoreapp2.0\P02_KingsGambit.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P02_KingsGambit\bin\Debug\netcoreapp2.0\P02_KingsGambit.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P02_KingsGambit\obj\Debug\netcoreapp2.0\P02_KingsGambit.csprojAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P02_KingsGambit\obj\Debug\netcoreapp2.0\P02_KingsGambit.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P02_KingsGambit\obj\Debug\netcoreapp2.0\P02_KingsGambit.AssemblyInfoInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P02_KingsGambit\obj\Debug\netcoreapp2.0\P02_KingsGambit.AssemblyInfo.cs
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P02_KingsGambit\obj\Debug\netcoreapp2.0\P02_KingsGambit.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\06. Communication And Events\P02_KingsGambit\obj\Debug\netcoreapp2.0\P02_KingsGambit.pdb

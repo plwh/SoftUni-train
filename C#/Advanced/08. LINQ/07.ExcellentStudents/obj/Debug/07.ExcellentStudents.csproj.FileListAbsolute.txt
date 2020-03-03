@@ -1,0 +1,6 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\07.ExcellentStudents\bin\Debug\07.ExcellentStudents.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\07.ExcellentStudents\bin\Debug\07.ExcellentStudents.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\07.ExcellentStudents\bin\Debug\07.ExcellentStudents.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\07.ExcellentStudents\obj\Debug\07.ExcellentStudents.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\07.ExcellentStudents\obj\Debug\07.ExcellentStudents.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\07.ExcellentStudents\obj\Debug\07.ExcellentStudents.pdb

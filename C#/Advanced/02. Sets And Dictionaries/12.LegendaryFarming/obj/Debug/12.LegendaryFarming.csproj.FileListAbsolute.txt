@@ -1,0 +1,7 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\12.LegendaryFarming\bin\Debug\12.LegendaryFarming.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\12.LegendaryFarming\bin\Debug\12.LegendaryFarming.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\12.LegendaryFarming\bin\Debug\12.LegendaryFarming.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\12.LegendaryFarming\obj\Debug\12.LegendaryFarming.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\12.LegendaryFarming\obj\Debug\12.LegendaryFarming.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\12.LegendaryFarming\obj\Debug\12.LegendaryFarming.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\12.LegendaryFarming\obj\Debug\12.LegendaryFarming.pdb

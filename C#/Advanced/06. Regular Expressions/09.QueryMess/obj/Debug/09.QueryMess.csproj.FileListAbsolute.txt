@@ -1,0 +1,7 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\09.QueryMess\bin\Debug\09.QueryMess.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\09.QueryMess\bin\Debug\09.QueryMess.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\09.QueryMess\bin\Debug\09.QueryMess.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\09.QueryMess\obj\Debug\09.QueryMess.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\09.QueryMess\obj\Debug\09.QueryMess.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\09.QueryMess\obj\Debug\09.QueryMess.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\09.QueryMess\obj\Debug\09.QueryMess.pdb

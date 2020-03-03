@@ -1,0 +1,11 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\12.Google\bin\Debug\netcoreapp2.0\12.Google.deps.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\12.Google\bin\Debug\netcoreapp2.0\12.Google.runtimeconfig.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\12.Google\bin\Debug\netcoreapp2.0\12.Google.runtimeconfig.dev.json
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\12.Google\bin\Debug\netcoreapp2.0\12.Google.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\12.Google\bin\Debug\netcoreapp2.0\12.Google.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\12.Google\obj\Debug\netcoreapp2.0\12.Google.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\12.Google\obj\Debug\netcoreapp2.0\12.Google.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\12.Google\obj\Debug\netcoreapp2.0\12.Google.AssemblyInfoInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\12.Google\obj\Debug\netcoreapp2.0\12.Google.AssemblyInfo.cs
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\12.Google\obj\Debug\netcoreapp2.0\12.Google.dll
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Basics\01. Defining Classes\12.Google\obj\Debug\netcoreapp2.0\12.Google.pdb

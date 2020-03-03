@@ -1,0 +1,6 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\03.StudentsByAge\bin\Debug\03.StudentsByAge.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\03.StudentsByAge\bin\Debug\03.StudentsByAge.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\03.StudentsByAge\bin\Debug\03.StudentsByAge.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\03.StudentsByAge\obj\Debug\03.StudentsByAge.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\03.StudentsByAge\obj\Debug\03.StudentsByAge.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\03.StudentsByAge\obj\Debug\03.StudentsByAge.pdb

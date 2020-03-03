@@ -1,0 +1,7 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\08.MultiplyBigNumbers\obj\Debug\08.MultiplyBigNumbers.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\08.MultiplyBigNumbers\obj\Debug\08.MultiplyBigNumbers.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\08.MultiplyBigNumbers\bin\Debug\08.MultiplyBigNumbers.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\08.MultiplyBigNumbers\bin\Debug\08.MultiplyBigNumbers.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\08.MultiplyBigNumbers\bin\Debug\08.MultiplyBigNumbers.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\08.MultiplyBigNumbers\obj\Debug\08.MultiplyBigNumbers.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\08.MultiplyBigNumbers\obj\Debug\08.MultiplyBigNumbers.pdb

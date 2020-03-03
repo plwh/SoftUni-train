@@ -1,0 +1,7 @@
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\03.2By2SquaresInMatrix\bin\Debug\03.2By2SquaresInMatrix.exe.config
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\03.2By2SquaresInMatrix\bin\Debug\03.2By2SquaresInMatrix.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\03.2By2SquaresInMatrix\bin\Debug\03.2By2SquaresInMatrix.pdb
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\03.2By2SquaresInMatrix\obj\Debug\03.2By2SquaresInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\03.2By2SquaresInMatrix\obj\Debug\03.2By2SquaresInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\03.2By2SquaresInMatrix\obj\Debug\03.2By2SquaresInMatrix.exe
+C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\03.2By2SquaresInMatrix\obj\Debug\03.2By2SquaresInMatrix.pdb
