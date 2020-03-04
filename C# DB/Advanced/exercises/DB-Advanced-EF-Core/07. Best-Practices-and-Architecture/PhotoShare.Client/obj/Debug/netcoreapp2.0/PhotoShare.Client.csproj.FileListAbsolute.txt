@@ -1,0 +1,16 @@
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Client.deps.json
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Client.runtimeconfig.json
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Client.runtimeconfig.dev.json
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Client.dll
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Client.pdb
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Data.dll
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Models.dll
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Data.pdb
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Models.pdb
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.csprojAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.AssemblyInfoInputs.cache
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.AssemblyInfo.cs
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.csproj.CopyComplete
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.dll
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.pdb

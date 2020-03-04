@@ -1,0 +1,12 @@
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Stations\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Data\obj\Debug\netcoreapp2.0\Stations.Data.csprojAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Stations\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Data\obj\Debug\netcoreapp2.0\Stations.Data.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Stations\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Data\obj\Debug\netcoreapp2.0\Stations.Data.AssemblyInfoInputs.cache
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Stations\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Data\obj\Debug\netcoreapp2.0\Stations.Data.AssemblyInfo.cs
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Stations\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Data\bin\Debug\netcoreapp2.0\Stations.Data.deps.json
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Stations\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Data\bin\Debug\netcoreapp2.0\Stations.Data.dll
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Stations\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Data\bin\Debug\netcoreapp2.0\Stations.Data.pdb
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Stations\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Data\bin\Debug\netcoreapp2.0\Stations.Models.dll
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Stations\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Data\bin\Debug\netcoreapp2.0\Stations.Models.pdb
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Stations\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Data\obj\Debug\netcoreapp2.0\Stations.Data.csproj.CopyComplete
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Stations\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Data\obj\Debug\netcoreapp2.0\Stations.Data.dll
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Stations\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Data\obj\Debug\netcoreapp2.0\Stations.Data.pdb

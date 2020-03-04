@@ -1,0 +1,12 @@
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.deps.json
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.dll
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.pdb
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Models.dll
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Models.pdb
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.csprojAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.AssemblyInfoInputs.cache
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.AssemblyInfo.cs
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.csproj.CopyComplete
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.dll
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\07. Best-Practices-and-Architecture\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.pdb

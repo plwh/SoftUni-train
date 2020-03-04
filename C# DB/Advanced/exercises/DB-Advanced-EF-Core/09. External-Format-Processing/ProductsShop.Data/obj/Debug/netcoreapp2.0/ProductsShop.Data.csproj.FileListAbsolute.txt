@@ -1,0 +1,12 @@
+c:\users\plwh\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\09. External-Format-Processing\ProductsShop.Data\bin\Debug\netcoreapp2.0\ProductsShop.Data.deps.json
+c:\users\plwh\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\09. External-Format-Processing\ProductsShop.Data\bin\Debug\netcoreapp2.0\ProductsShop.Data.dll
+c:\users\plwh\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\09. External-Format-Processing\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.csprojAssemblyReference.cache
+c:\users\plwh\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\09. External-Format-Processing\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.csproj.CoreCompileInputs.cache
+c:\users\plwh\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\09. External-Format-Processing\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.AssemblyInfoInputs.cache
+c:\users\plwh\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\09. External-Format-Processing\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.AssemblyInfo.cs
+c:\users\plwh\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\09. External-Format-Processing\ProductsShop.Data\bin\Debug\netcoreapp2.0\ProductsShop.Data.pdb
+c:\users\plwh\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\09. External-Format-Processing\ProductsShop.Data\bin\Debug\netcoreapp2.0\ProductsShop.Models.dll
+c:\users\plwh\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\09. External-Format-Processing\ProductsShop.Data\bin\Debug\netcoreapp2.0\ProductsShop.Models.pdb
+c:\users\plwh\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\09. External-Format-Processing\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.csproj.CopyComplete
+c:\users\plwh\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\09. External-Format-Processing\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.dll
+c:\users\plwh\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\09. External-Format-Processing\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.pdb

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <ApplicationIcon />
+    <OutputType>Exe</OutputType>
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\P01_StudentSystem\P01_StudentSystem.csproj" />
+    <ProjectReference Include="..\StudentDatabaseInitializer\P01_StudentDatabaseInitializer.csproj" />
+  </ItemGroup>
+
+</Project>

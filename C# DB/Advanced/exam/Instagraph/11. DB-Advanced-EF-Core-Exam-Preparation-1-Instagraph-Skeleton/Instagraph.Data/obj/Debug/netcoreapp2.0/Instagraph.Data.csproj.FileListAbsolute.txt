@@ -1,0 +1,12 @@
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Instagraph\11. DB-Advanced-EF-Core-Exam-Preparation-1-Instagraph-Skeleton\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Data.deps.json
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Instagraph\11. DB-Advanced-EF-Core-Exam-Preparation-1-Instagraph-Skeleton\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Data.dll
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Instagraph\11. DB-Advanced-EF-Core-Exam-Preparation-1-Instagraph-Skeleton\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Data.pdb
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Instagraph\11. DB-Advanced-EF-Core-Exam-Preparation-1-Instagraph-Skeleton\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Models.dll
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Instagraph\11. DB-Advanced-EF-Core-Exam-Preparation-1-Instagraph-Skeleton\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Models.pdb
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Instagraph\11. DB-Advanced-EF-Core-Exam-Preparation-1-Instagraph-Skeleton\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.csprojAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Instagraph\11. DB-Advanced-EF-Core-Exam-Preparation-1-Instagraph-Skeleton\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Instagraph\11. DB-Advanced-EF-Core-Exam-Preparation-1-Instagraph-Skeleton\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.AssemblyInfoInputs.cache
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Instagraph\11. DB-Advanced-EF-Core-Exam-Preparation-1-Instagraph-Skeleton\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.AssemblyInfo.cs
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Instagraph\11. DB-Advanced-EF-Core-Exam-Preparation-1-Instagraph-Skeleton\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.csproj.CopyComplete
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Instagraph\11. DB-Advanced-EF-Core-Exam-Preparation-1-Instagraph-Skeleton\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.dll
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Instagraph\11. DB-Advanced-EF-Core-Exam-Preparation-1-Instagraph-Skeleton\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.pdb

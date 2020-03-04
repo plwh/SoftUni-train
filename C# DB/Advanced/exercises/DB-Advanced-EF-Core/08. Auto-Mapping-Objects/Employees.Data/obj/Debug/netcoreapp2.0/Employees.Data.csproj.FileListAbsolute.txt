@@ -1,0 +1,14 @@
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\08. Auto-Mapping-Objects\Employees.Data\bin\Debug\netcoreapp2.0\Employees.Data.deps.json
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\08. Auto-Mapping-Objects\Employees.Data\bin\Debug\netcoreapp2.0\Employees.Data.dll
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\08. Auto-Mapping-Objects\Employees.Data\obj\Debug\netcoreapp2.0\Employees.Data.csprojAssemblyReference.cache
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\08. Auto-Mapping-Objects\Employees.Data\obj\Debug\netcoreapp2.0\Employees.Data.csproj.CoreCompileInputs.cache
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\08. Auto-Mapping-Objects\Employees.Data\obj\Debug\netcoreapp2.0\Employees.Data.AssemblyInfoInputs.cache
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\08. Auto-Mapping-Objects\Employees.Data\obj\Debug\netcoreapp2.0\Employees.Data.AssemblyInfo.cs
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\08. Auto-Mapping-Objects\Employees.Data\bin\Debug\netcoreapp2.0\Employees.Models.dll
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\08. Auto-Mapping-Objects\Employees.Data\bin\Debug\netcoreapp2.0\Employees.Data.runtimeconfig.json
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\08. Auto-Mapping-Objects\Employees.Data\bin\Debug\netcoreapp2.0\Employees.Data.runtimeconfig.dev.json
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\08. Auto-Mapping-Objects\Employees.Data\bin\Debug\netcoreapp2.0\Employees.Data.pdb
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\08. Auto-Mapping-Objects\Employees.Data\bin\Debug\netcoreapp2.0\Employees.Models.pdb
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\08. Auto-Mapping-Objects\Employees.Data\obj\Debug\netcoreapp2.0\Employees.Data.csproj.CopyComplete
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\08. Auto-Mapping-Objects\Employees.Data\obj\Debug\netcoreapp2.0\Employees.Data.dll
+C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\08. Auto-Mapping-Objects\Employees.Data\obj\Debug\netcoreapp2.0\Employees.Data.pdb

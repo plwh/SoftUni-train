@@ -1,0 +1,3 @@
+Notes to self
+In ADO.NET when connecting to database the "\" symbol should be escaped -> Server=(localdb)\\v12.0
+In Entity Framework when connecting to database the "\" should NOT be escaped -> Server=(localdb)\v12.0
