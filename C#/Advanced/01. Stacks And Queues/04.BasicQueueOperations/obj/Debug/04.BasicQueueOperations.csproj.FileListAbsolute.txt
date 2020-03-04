@@ -1,6 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\01. Stacks And Queues\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.pdb

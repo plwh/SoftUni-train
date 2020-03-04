@@ -1,7 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\02.LineNumbers\bin\Debug\02.LineNumbers.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\02.LineNumbers\bin\Debug\02.LineNumbers.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\02.LineNumbers\bin\Debug\02.LineNumbers.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\02.LineNumbers\obj\Debug\02.LineNumbers.csprojResolveAssemblyReference.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\02.LineNumbers\obj\Debug\02.LineNumbers.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\02.LineNumbers\obj\Debug\02.LineNumbers.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\02.LineNumbers\obj\Debug\02.LineNumbers.pdb

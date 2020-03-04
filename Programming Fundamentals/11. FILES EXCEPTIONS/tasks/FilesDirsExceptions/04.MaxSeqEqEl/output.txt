@@ -1,0 +1,9 @@
+Test input: 3 4 4 5 5 5 2 2 
+Test output:
+5 5 5
+Test input: 7 7 4 4 5 5 3 3 
+Test output:
+7 7
+Test input: 1 2 3 3 
+Test output:
+3 3

@@ -1,7 +1,0 @@
-c:\users\plwh\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\01.MatchFullName\bin\Debug\01.MatchFullName.exe.config
-c:\users\plwh\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\01.MatchFullName\bin\Debug\01.MatchFullName.exe
-c:\users\plwh\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\01.MatchFullName\bin\Debug\01.MatchFullName.pdb
-c:\users\plwh\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\01.MatchFullName\obj\Debug\01.MatchFullName.csprojResolveAssemblyReference.cache
-c:\users\plwh\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\01.MatchFullName\obj\Debug\01.MatchFullName.csproj.CoreCompileInputs.cache
-c:\users\plwh\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\01.MatchFullName\obj\Debug\01.MatchFullName.exe
-c:\users\plwh\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\01.MatchFullName\obj\Debug\01.MatchFullName.pdb

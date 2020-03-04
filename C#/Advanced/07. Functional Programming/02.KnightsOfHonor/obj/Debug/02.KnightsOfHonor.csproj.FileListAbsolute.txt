@@ -1,6 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\07. Functional Programming\02.KnightsOfHonor\bin\Debug\02.KnightsOfHonor.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\07. Functional Programming\02.KnightsOfHonor\bin\Debug\02.KnightsOfHonor.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\07. Functional Programming\02.KnightsOfHonor\bin\Debug\02.KnightsOfHonor.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\07. Functional Programming\02.KnightsOfHonor\obj\Debug\02.KnightsOfHonor.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\07. Functional Programming\02.KnightsOfHonor\obj\Debug\02.KnightsOfHonor.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\07. Functional Programming\02.KnightsOfHonor\obj\Debug\02.KnightsOfHonor.pdb

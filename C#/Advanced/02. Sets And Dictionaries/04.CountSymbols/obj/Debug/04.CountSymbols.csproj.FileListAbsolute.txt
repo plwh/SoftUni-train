@@ -1,7 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\04.CountSymbols\bin\Debug\04.CountSymbols.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\04.CountSymbols\bin\Debug\04.CountSymbols.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\04.CountSymbols\bin\Debug\04.CountSymbols.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\04.CountSymbols\obj\Debug\04.CountSymbols.csprojResolveAssemblyReference.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\04.CountSymbols\obj\Debug\04.CountSymbols.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\04.CountSymbols\obj\Debug\04.CountSymbols.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\04.CountSymbols\obj\Debug\04.CountSymbols.pdb

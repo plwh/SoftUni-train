@@ -1,6 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\12.CharacterMultiplier\bin\Debug\12.CharacterMultiplier.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\12.CharacterMultiplier\bin\Debug\12.CharacterMultiplier.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\12.CharacterMultiplier\bin\Debug\12.CharacterMultiplier.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\12.CharacterMultiplier\obj\Debug\12.CharacterMultiplier.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\12.CharacterMultiplier\obj\Debug\12.CharacterMultiplier.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\12.CharacterMultiplier\obj\Debug\12.CharacterMultiplier.pdb

@@ -1,7 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\05.SlicingFile\bin\Debug\05.SlicingFile.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\05.SlicingFile\bin\Debug\05.SlicingFile.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\05.SlicingFile\bin\Debug\05.SlicingFile.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\05.SlicingFile\obj\Debug\05.SlicingFile.csprojResolveAssemblyReference.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\05.SlicingFile\obj\Debug\05.SlicingFile.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\05.SlicingFile\obj\Debug\05.SlicingFile.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\05.SlicingFile\obj\Debug\05.SlicingFile.pdb

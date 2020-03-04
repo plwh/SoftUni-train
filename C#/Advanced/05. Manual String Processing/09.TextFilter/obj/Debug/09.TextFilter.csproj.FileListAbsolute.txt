@@ -1,6 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\09.TextFilter\bin\Debug\09.TextFilter.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\09.TextFilter\bin\Debug\09.TextFilter.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\09.TextFilter\bin\Debug\09.TextFilter.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\09.TextFilter\obj\Debug\09.TextFilter.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\09.TextFilter\obj\Debug\09.TextFilter.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\09.TextFilter\obj\Debug\09.TextFilter.pdb

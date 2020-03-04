@@ -1,7 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 11 February 2018\02.SneakingProblem\bin\Debug\02.SneakingProblem.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 11 February 2018\02.SneakingProblem\bin\Debug\02.SneakingProblem.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 11 February 2018\02.SneakingProblem\bin\Debug\02.SneakingProblem.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 11 February 2018\02.SneakingProblem\obj\Debug\02.SneakingProblem.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 11 February 2018\02.SneakingProblem\obj\Debug\02.SneakingProblem.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 11 February 2018\02.SneakingProblem\obj\Debug\02.SneakingProblem.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 11 February 2018\02.SneakingProblem\obj\Debug\02.SneakingProblem.csprojResolveAssemblyReference.cache

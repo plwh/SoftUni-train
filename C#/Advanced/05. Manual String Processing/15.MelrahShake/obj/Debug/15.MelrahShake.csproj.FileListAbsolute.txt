@@ -1,7 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\15.MelrahShake\bin\Debug\15.MelrahShake.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\15.MelrahShake\bin\Debug\15.MelrahShake.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\15.MelrahShake\bin\Debug\15.MelrahShake.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\15.MelrahShake\obj\Debug\15.MelrahShake.csprojResolveAssemblyReference.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\15.MelrahShake\obj\Debug\15.MelrahShake.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\15.MelrahShake\obj\Debug\15.MelrahShake.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\15.MelrahShake\obj\Debug\15.MelrahShake.pdb

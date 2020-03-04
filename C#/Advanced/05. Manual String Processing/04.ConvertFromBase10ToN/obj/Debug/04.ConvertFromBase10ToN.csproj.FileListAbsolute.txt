@@ -1,7 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\04.ConvertFromBase10ToN\bin\Debug\04.ConvertFromBase10ToN.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\04.ConvertFromBase10ToN\bin\Debug\04.ConvertFromBase10ToN.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\04.ConvertFromBase10ToN\bin\Debug\04.ConvertFromBase10ToN.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\04.ConvertFromBase10ToN\obj\Debug\04.ConvertFromBase10ToN.csprojResolveAssemblyReference.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\04.ConvertFromBase10ToN\obj\Debug\04.ConvertFromBase10ToN.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\04.ConvertFromBase10ToN\obj\Debug\04.ConvertFromBase10ToN.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\04.ConvertFromBase10ToN\obj\Debug\04.ConvertFromBase10ToN.pdb

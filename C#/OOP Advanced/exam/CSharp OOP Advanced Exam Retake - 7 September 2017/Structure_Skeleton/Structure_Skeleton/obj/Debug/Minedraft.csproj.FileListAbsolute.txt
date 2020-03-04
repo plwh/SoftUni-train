@@ -1,7 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\exam\CSharp OOP Advanced Exam Retake - 7 September 2017\Structure_Skeleton\Structure_Skeleton\obj\Debug\Minedraft.csprojAssemblyReference.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\exam\CSharp OOP Advanced Exam Retake - 7 September 2017\Structure_Skeleton\Structure_Skeleton\obj\Debug\Minedraft.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\exam\CSharp OOP Advanced Exam Retake - 7 September 2017\Structure_Skeleton\Structure_Skeleton\bin\Debug\Minedraft.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\exam\CSharp OOP Advanced Exam Retake - 7 September 2017\Structure_Skeleton\Structure_Skeleton\bin\Debug\Minedraft.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\exam\CSharp OOP Advanced Exam Retake - 7 September 2017\Structure_Skeleton\Structure_Skeleton\bin\Debug\Minedraft.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\exam\CSharp OOP Advanced Exam Retake - 7 September 2017\Structure_Skeleton\Structure_Skeleton\obj\Debug\Minedraft.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\OOP Advanced\exam\CSharp OOP Advanced Exam Retake - 7 September 2017\Structure_Skeleton\Structure_Skeleton\obj\Debug\Minedraft.pdb

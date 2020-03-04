@@ -1,7 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 25 June 2017\04.Hospital\bin\Debug\04.Hospital.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 25 June 2017\04.Hospital\bin\Debug\04.Hospital.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 25 June 2017\04.Hospital\bin\Debug\04.Hospital.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 25 June 2017\04.Hospital\obj\Debug\04.Hospital.csprojResolveAssemblyReference.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 25 June 2017\04.Hospital\obj\Debug\04.Hospital.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 25 June 2017\04.Hospital\obj\Debug\04.Hospital.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 25 June 2017\04.Hospital\obj\Debug\04.Hospital.pdb

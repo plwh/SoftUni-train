@@ -1,0 +1,15 @@
+Test input: abcz
+Test output:
+a -> 0
+b -> 1
+c -> 2
+z -> 25
+Test input: softuni
+Test output:
+s -> 18
+o -> 14
+f -> 5
+t -> 19
+u -> 20
+n -> 13
+i -> 8

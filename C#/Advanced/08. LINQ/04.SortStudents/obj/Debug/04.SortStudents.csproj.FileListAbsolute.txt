@@ -1,7 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\04.SortStudents\bin\Debug\04.SortStudents.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\04.SortStudents\bin\Debug\04.SortStudents.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\04.SortStudents\bin\Debug\04.SortStudents.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\04.SortStudents\obj\Debug\04.SortStudents.csprojResolveAssemblyReference.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\04.SortStudents\obj\Debug\04.SortStudents.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\04.SortStudents\obj\Debug\04.SortStudents.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\04.SortStudents\obj\Debug\04.SortStudents.pdb

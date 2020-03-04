@@ -1,7 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\06.ZippingSlicedFiles\bin\Debug\06.ZippingSlicedFiles.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\06.ZippingSlicedFiles\bin\Debug\06.ZippingSlicedFiles.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\06.ZippingSlicedFiles\bin\Debug\06.ZippingSlicedFiles.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\06.ZippingSlicedFiles\obj\Debug\06.ZippingSlicedFiles.csprojResolveAssemblyReference.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\06.ZippingSlicedFiles\obj\Debug\06.ZippingSlicedFiles.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\06.ZippingSlicedFiles\obj\Debug\06.ZippingSlicedFiles.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\06.ZippingSlicedFiles\obj\Debug\06.ZippingSlicedFiles.pdb

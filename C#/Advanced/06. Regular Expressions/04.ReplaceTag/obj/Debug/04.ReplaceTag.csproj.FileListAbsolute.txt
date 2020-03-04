@@ -1,7 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\04.ReplaceTag\bin\Debug\04.ReplaceTag.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\04.ReplaceTag\bin\Debug\04.ReplaceTag.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\04.ReplaceTag\bin\Debug\04.ReplaceTag.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\04.ReplaceTag\obj\Debug\04.ReplaceTag.csprojResolveAssemblyReference.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\04.ReplaceTag\obj\Debug\04.ReplaceTag.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\04.ReplaceTag\obj\Debug\04.ReplaceTag.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\04.ReplaceTag\obj\Debug\04.ReplaceTag.pdb

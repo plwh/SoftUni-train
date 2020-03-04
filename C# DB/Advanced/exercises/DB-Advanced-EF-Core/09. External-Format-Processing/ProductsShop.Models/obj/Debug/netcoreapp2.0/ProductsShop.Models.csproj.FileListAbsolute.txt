@@ -1,9 +1,0 @@
-c:\users\plwh\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\09. External-Format-Processing\ProductsShop.Models\bin\Debug\netcoreapp2.0\ProductsShop.Models.deps.json
-c:\users\plwh\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\09. External-Format-Processing\ProductsShop.Models\bin\Debug\netcoreapp2.0\ProductsShop.Models.dll
-c:\users\plwh\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\09. External-Format-Processing\ProductsShop.Models\bin\Debug\netcoreapp2.0\ProductsShop.Models.pdb
-c:\users\plwh\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\09. External-Format-Processing\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.csprojAssemblyReference.cache
-c:\users\plwh\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\09. External-Format-Processing\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.csproj.CoreCompileInputs.cache
-c:\users\plwh\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\09. External-Format-Processing\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.AssemblyInfoInputs.cache
-c:\users\plwh\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\09. External-Format-Processing\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.AssemblyInfo.cs
-c:\users\plwh\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\09. External-Format-Processing\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.dll
-c:\users\plwh\Desktop\Coding\C#(SUni)\C# DB\Advanced\exercises\DB-Advanced-EF-Core\09. External-Format-Processing\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.pdb

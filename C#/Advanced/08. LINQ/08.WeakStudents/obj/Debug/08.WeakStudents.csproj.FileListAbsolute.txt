@@ -1,7 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\08.WeakStudents\bin\Debug\08.WeakStudents.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\08.WeakStudents\bin\Debug\08.WeakStudents.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\08.WeakStudents\bin\Debug\08.WeakStudents.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\08.WeakStudents\obj\Debug\08.WeakStudents.csprojResolveAssemblyReference.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\08.WeakStudents\obj\Debug\08.WeakStudents.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\08.WeakStudents\obj\Debug\08.WeakStudents.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\08.WeakStudents\obj\Debug\08.WeakStudents.pdb

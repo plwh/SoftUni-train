@@ -1,9 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Stations\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.csprojAssemblyReference.cache
-C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Stations\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Stations\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.AssemblyInfoInputs.cache
-C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Stations\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.AssemblyInfo.cs
-C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Stations\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Models\bin\Debug\netcoreapp2.0\Stations.Models.deps.json
-C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Stations\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Models\bin\Debug\netcoreapp2.0\Stations.Models.dll
-C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Stations\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Models\bin\Debug\netcoreapp2.0\Stations.Models.pdb
-C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Stations\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.dll
-C:\Users\PLWH\Desktop\Coding\C#(SUni)\C# DB\Advanced\exam\Stations\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.pdb

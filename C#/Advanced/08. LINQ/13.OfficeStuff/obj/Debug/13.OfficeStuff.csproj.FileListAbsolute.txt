@@ -1,7 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\13.OfficeStuff\bin\Debug\13.OfficeStuff.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\13.OfficeStuff\bin\Debug\13.OfficeStuff.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\13.OfficeStuff\bin\Debug\13.OfficeStuff.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\13.OfficeStuff\obj\Debug\13.OfficeStuff.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\13.OfficeStuff\obj\Debug\13.OfficeStuff.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\13.OfficeStuff\obj\Debug\13.OfficeStuff.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\13.OfficeStuff\obj\Debug\13.OfficeStuff.csprojResolveAssemblyReference.cache

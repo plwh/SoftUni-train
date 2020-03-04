@@ -1,7 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\08.ExtractHyperlinks\bin\Debug\08.ExtractHyperlinks.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\08.ExtractHyperlinks\bin\Debug\08.ExtractHyperlinks.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\08.ExtractHyperlinks\bin\Debug\08.ExtractHyperlinks.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\08.ExtractHyperlinks\obj\Debug\08.ExtractHyperlinks.csprojResolveAssemblyReference.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\08.ExtractHyperlinks\obj\Debug\08.ExtractHyperlinks.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\08.ExtractHyperlinks\obj\Debug\08.ExtractHyperlinks.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\08.ExtractHyperlinks\obj\Debug\08.ExtractHyperlinks.pdb

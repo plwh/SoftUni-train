@@ -1,7 +1,0 @@
-c:\users\plwh\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.exe.config
-c:\users\plwh\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.exe
-c:\users\plwh\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.pdb
-c:\users\plwh\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.csprojResolveAssemblyReference.cache
-c:\users\plwh\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.csproj.CoreCompileInputs.cache
-c:\users\plwh\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.exe
-c:\users\plwh\Desktop\Coding\C# (SoftUni)\C#\Advanced\06. Regular Expressions\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.pdb

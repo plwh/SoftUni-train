@@ -1,7 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\14.LetterChangeNumbers\bin\Debug\14.LetterChangeNumbers.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\14.LetterChangeNumbers\bin\Debug\14.LetterChangeNumbers.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\14.LetterChangeNumbers\bin\Debug\14.LetterChangeNumbers.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\14.LetterChangeNumbers\obj\Debug\14.LetterChangeNumbers.csprojResolveAssemblyReference.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\14.LetterChangeNumbers\obj\Debug\14.LetterChangeNumbers.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\14.LetterChangeNumbers\obj\Debug\14.LetterChangeNumbers.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\05. Manual String Processing\14.LetterChangeNumbers\obj\Debug\14.LetterChangeNumbers.pdb

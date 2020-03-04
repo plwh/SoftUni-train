@@ -1,7 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 25 June 2017\02.KinghtGame\bin\Debug\02.KinghtGame.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 25 June 2017\02.KinghtGame\bin\Debug\02.KinghtGame.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 25 June 2017\02.KinghtGame\bin\Debug\02.KinghtGame.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 25 June 2017\02.KinghtGame\obj\Debug\02.KnightGame.csprojResolveAssemblyReference.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 25 June 2017\02.KinghtGame\obj\Debug\02.KnightGame.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 25 June 2017\02.KinghtGame\obj\Debug\02.KinghtGame.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam - 25 June 2017\02.KinghtGame\obj\Debug\02.KinghtGame.pdb

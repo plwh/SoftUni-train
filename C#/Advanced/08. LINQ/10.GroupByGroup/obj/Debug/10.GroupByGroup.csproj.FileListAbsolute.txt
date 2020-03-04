@@ -1,7 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\10.GroupByGroup\obj\Debug\10.GroupByGroup.csprojResolveAssemblyReference.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\10.GroupByGroup\obj\Debug\10.GroupByGroup.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\10.GroupByGroup\bin\Debug\10.GroupByGroup.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\10.GroupByGroup\bin\Debug\10.GroupByGroup.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\10.GroupByGroup\bin\Debug\10.GroupByGroup.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\10.GroupByGroup\obj\Debug\10.GroupByGroup.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\10.GroupByGroup\obj\Debug\10.GroupByGroup.pdb

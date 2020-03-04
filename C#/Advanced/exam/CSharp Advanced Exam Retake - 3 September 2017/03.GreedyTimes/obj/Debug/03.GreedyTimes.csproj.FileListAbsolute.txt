@@ -1,7 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam Retake - 3 September 2017\03.GreedyTimes\bin\Debug\03.GreedyTimes.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam Retake - 3 September 2017\03.GreedyTimes\bin\Debug\03.GreedyTimes.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam Retake - 3 September 2017\03.GreedyTimes\bin\Debug\03.GreedyTimes.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam Retake - 3 September 2017\03.GreedyTimes\obj\Debug\03.GreedyTimes.csprojResolveAssemblyReference.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam Retake - 3 September 2017\03.GreedyTimes\obj\Debug\03.GreedyTimes.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam Retake - 3 September 2017\03.GreedyTimes\obj\Debug\03.GreedyTimes.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\exam\CSharp Advanced Exam Retake - 3 September 2017\03.GreedyTimes\obj\Debug\03.GreedyTimes.pdb

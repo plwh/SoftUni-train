@@ -1,7 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\03.PeriodicTable\bin\Debug\03.PeriodicTable.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\03.PeriodicTable\bin\Debug\03.PeriodicTable.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\03.PeriodicTable\bin\Debug\03.PeriodicTable.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\03.PeriodicTable\obj\Debug\03.PeriodicTable.csprojResolveAssemblyReference.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\03.PeriodicTable\obj\Debug\03.PeriodicTable.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\03.PeriodicTable\obj\Debug\03.PeriodicTable.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\02. Sets And Dictionaries\03.PeriodicTable\obj\Debug\03.PeriodicTable.pdb

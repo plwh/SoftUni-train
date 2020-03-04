@@ -1,7 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\10.TheHeiganDance\bin\Debug\10.TheHeiganDance.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\10.TheHeiganDance\bin\Debug\10.TheHeiganDance.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\10.TheHeiganDance\bin\Debug\10.TheHeiganDance.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\10.TheHeiganDance\obj\Debug\10.TheHeiganDance.csprojResolveAssemblyReference.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\10.TheHeiganDance\obj\Debug\10.TheHeiganDance.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\10.TheHeiganDance\obj\Debug\10.TheHeiganDance.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\03. Matrices\10.TheHeiganDance\obj\Debug\10.TheHeiganDance.pdb

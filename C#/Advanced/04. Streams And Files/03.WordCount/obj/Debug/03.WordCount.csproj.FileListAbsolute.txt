@@ -1,7 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\03.WordCount\bin\Debug\03.WordCount.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\03.WordCount\bin\Debug\03.WordCount.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\03.WordCount\bin\Debug\03.WordCount.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\03.WordCount\obj\Debug\03.WordCount.csprojResolveAssemblyReference.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\03.WordCount\obj\Debug\03.WordCount.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\03.WordCount\obj\Debug\03.WordCount.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\04. Streams And Files\03.WordCount\obj\Debug\03.WordCount.pdb

@@ -1,7 +1,0 @@
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\02.StudentsByFirstLastName\bin\Debug\02.StudentsByFirstLastName.exe.config
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\02.StudentsByFirstLastName\bin\Debug\02.StudentsByFirstLastName.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\02.StudentsByFirstLastName\bin\Debug\02.StudentsByFirstLastName.pdb
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\02.StudentsByFirstLastName\obj\Debug\02.StudentsByFirstLastName.csprojResolveAssemblyReference.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\02.StudentsByFirstLastName\obj\Debug\02.StudentsByFirstLastName.csproj.CoreCompileInputs.cache
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\02.StudentsByFirstLastName\obj\Debug\02.StudentsByFirstLastName.exe
-C:\Users\PLWH\Desktop\Coding\C# (SoftUni)\C#\Advanced\08. LINQ\02.StudentsByFirstLastName\obj\Debug\02.StudentsByFirstLastName.pdb
